@@ -1,9 +1,9 @@
 # Interactive-Sales-and-Profit-Dashboard-PowerBI-
-● Project Overview
+## ● **Project Overview**
 
 This project is a Data Analytics Mini-Project created using Power BI. It transforms raw sales data into an interactive visual report to help businesses understand their sales trends, product performance, and profitability.
 
-● Key Features
+## ● **Key Features**
 
 - Executive Summary: Large cards showing Total Sales and Profit at a glance.
 
@@ -15,7 +15,7 @@ This project is a Data Analytics Mini-Project created using Power BI. It transfo
 
 - Interactive Filters: Slicers to filter the entire dashboard by Region and Date.
 
-● Tech Stack
+## ● **Tech Stack**
 
 - Tool: Power BI Desktop
 
@@ -23,7 +23,7 @@ This project is a Data Analytics Mini-Project created using Power BI. It transfo
 
 - Techniques: Data Cleaning (Power Query), Data Modeling, and DAX (Calculated Measures).
 
-● How to View
+## ● **How to View**
 
 1. Download the ' PowerBI Sales Dashboard Project.pbix ' file.
 
