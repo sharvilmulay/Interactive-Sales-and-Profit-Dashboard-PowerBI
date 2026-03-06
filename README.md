@@ -25,7 +25,7 @@ This project is a Data Analytics Mini-Project created using Power BI. It transfo
 
 ● How to View
 
-1. Download the PowerBI Sales Dashboard Project.pbix file.
+1. Download the 'PowerBI Sales Dashboard Project.pbix' file.
 
 2. Open it using Power BI Desktop.
 
